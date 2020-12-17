@@ -9,13 +9,13 @@
 <p align="center">The best way to schedule your service!</p>
 
 <p align="center">
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/wladimirgrf/gobarber-legacy?color=%23ab59c1">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/wladimirgrf/gobarber-legacy?color=%237159c1">
 
-  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/wladimirgrf/gobarber-legacy?color=%23ab59c1">
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/wladimirgrf/gobarber-legacy?color=%237159c1">
 
-  <img alt="Repository issues" src="https://img.shields.io/github/issues/wladimirgrf/gobarber-legacy?color=%23ab59c1">
+  <img alt="Repository issues" src="https://img.shields.io/github/issues/wladimirgrf/gobarber-legacy?color=%237159c1">
 
-  <img alt="GitHub" src="https://img.shields.io/github/license/wladimirgrf/gobarber-legacy?color=%23ab59c1">
+  <img alt="GitHub" src="https://img.shields.io/github/license/wladimirgrf/gobarber-legacy?color=%237159c1">
 </p>
 
 
