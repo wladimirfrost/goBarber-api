@@ -6,8 +6,6 @@
   Application for GoBarber Legacy
 </h3>
 
-<p align="center">The best way to schedule your service!</p>
-
 <p align="center">
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/wladimirgrf/gobarber-legacy?color=%237159c1">
 
